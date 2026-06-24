@@ -19,10 +19,10 @@ public:
     }
 
      void showProduct(){
-        cout << "Name: " << name << "\n"
-             << "Quantity: " << quantity << "\n"
-             << "Price: " << price << "\n"
-             << "Product value: " << productValue() << endl;
+         cout << "Name: " << name << "\n"
+              << "Quantity: " << quantity << "\n"
+              << "Price: " << price << "\n"
+              << "Product value: " << productValue() << endl;
     }
 };
 
